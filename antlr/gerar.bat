@@ -1,0 +1,1 @@
+java -jar antlr.jar Instruction.g
